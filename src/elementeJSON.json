@@ -1,0 +1,595 @@
+{
+  "elements":[
+   {
+     "Ordnungszahl": 1,
+     "Zeichen": "H",
+     "Name": "Wasserstoff"
+   },
+   {
+     "Ordnungszahl": 2,
+     "Zeichen": "He",
+     "Name": "Helium"
+   },
+   {
+     "Ordnungszahl": 3,
+     "Zeichen": "Li",
+     "Name": "Lithium"
+   },
+   {
+     "Ordnungszahl": 4,
+     "Zeichen": "Be",
+     "Name": "Beryllium"
+   },
+   {
+     "Ordnungszahl": 5,
+     "Zeichen": "B",
+     "Name": "Bor"
+   },
+   {
+     "Ordnungszahl": 6,
+     "Zeichen": "C",
+     "Name": "Kohlenstoff"
+   },
+   {
+     "Ordnungszahl": 7,
+     "Zeichen": "N",
+     "Name": "Stickstoff"
+   },
+   {
+     "Ordnungszahl": 8,
+     "Zeichen": "O",
+     "Name": "Sauerstoff"
+   },
+   {
+     "Ordnungszahl": 9,
+     "Zeichen": "F",
+     "Name": "Fluor"
+   },
+   {
+     "Ordnungszahl": 10,
+     "Zeichen": "Ne",
+     "Name": "Neon"
+   },
+   {
+     "Ordnungszahl": 11,
+     "Zeichen": "Na",
+     "Name": "Natrium"
+   },
+   {
+     "Ordnungszahl": 12,
+     "Zeichen": "Mg",
+     "Name": "Magnesium"
+   },
+   {
+     "Ordnungszahl": 13,
+     "Zeichen": "Al",
+     "Name": "Aluminium"
+   },
+   {
+     "Ordnungszahl": 14,
+     "Zeichen": "Si",
+     "Name": "Silizium"
+   },
+   {
+     "Ordnungszahl": 15,
+     "Zeichen": "P",
+     "Name": "Phosphor"
+   },
+   {
+     "Ordnungszahl": 16,
+     "Zeichen": "S",
+     "Name": "Schwefel"
+   },
+   {
+     "Ordnungszahl": 17,
+     "Zeichen": "Cl",
+     "Name": "Chlor"
+   },
+   {
+     "Ordnungszahl": 18,
+     "Zeichen": "Ar",
+     "Name": "Argon"
+   },
+   {
+     "Ordnungszahl": 19,
+     "Zeichen": "K",
+     "Name": "Kalium"
+   },
+   {
+     "Ordnungszahl": 20,
+     "Zeichen": "Ca",
+     "Name": "Calcium"
+   },
+   {
+     "Ordnungszahl": 21,
+     "Zeichen": "Sc",
+     "Name": "Scandium"
+   },
+   {
+     "Ordnungszahl": 22,
+     "Zeichen": "Ti",
+     "Name": "Titan"
+   },
+   {
+     "Ordnungszahl": 23,
+     "Zeichen": "V",
+     "Name": "Vanadium"
+   },
+   {
+     "Ordnungszahl": 24,
+     "Zeichen": "Cr",
+     "Name": "Chrom"
+   },
+   {
+     "Ordnungszahl": 25,
+     "Zeichen": "Mn",
+     "Name": "Mangan"
+   },
+   {
+     "Ordnungszahl": 26,
+     "Zeichen": "Fe",
+     "Name": "Eisen"
+   },
+   {
+     "Ordnungszahl": 27,
+     "Zeichen": "Co",
+     "Name": "Kobalt"
+   },
+   {
+     "Ordnungszahl": 28,
+     "Zeichen": "Ni",
+     "Name": "Nickel"
+   },
+   {
+     "Ordnungszahl": 29,
+     "Zeichen": "Cu",
+     "Name": "Kupfer"
+   },
+   {
+     "Ordnungszahl": 30,
+     "Zeichen": "Zn",
+     "Name": "Zink"
+   },
+   {
+     "Ordnungszahl": 31,
+     "Zeichen": "Ga",
+     "Name": "Gallium"
+   },
+   {
+     "Ordnungszahl": 32,
+     "Zeichen": "Ge",
+     "Name": "Germanium"
+   },
+   {
+     "Ordnungszahl": 33,
+     "Zeichen": "As",
+     "Name": "Arsen"
+   },
+   {
+     "Ordnungszahl": 34,
+     "Zeichen": "Se",
+     "Name": "Selen"
+   },
+   {
+     "Ordnungszahl": 35,
+     "Zeichen": "Br",
+     "Name": "Brom"
+   },
+   {
+     "Ordnungszahl": 36,
+     "Zeichen": "Kr",
+     "Name": "Krypton"
+   },
+   {
+     "Ordnungszahl": 37,
+     "Zeichen": "Rb",
+     "Name": "Rubidium"
+   },
+   {
+     "Ordnungszahl": 38,
+     "Zeichen": "Sr",
+     "Name": "Strontium"
+   },
+   {
+     "Ordnungszahl": 39,
+     "Zeichen": "Y",
+     "Name": "Yttrium"
+   },
+   {
+     "Ordnungszahl": 40,
+     "Zeichen": "Zr",
+     "Name": "Zirkonium"
+   },
+   {
+     "Ordnungszahl": 41,
+     "Zeichen": "Nb",
+     "Name": "Niob"
+   },
+   {
+     "Ordnungszahl": 42,
+     "Zeichen": "Mo",
+     "Name": "Molybdän"
+   },
+   {
+     "Ordnungszahl": 43,
+     "Zeichen": "Tc",
+     "Name": "Technetium"
+   },
+   {
+     "Ordnungszahl": 44,
+     "Zeichen": "Ru",
+     "Name": "Ruthenium"
+   },
+   {
+     "Ordnungszahl": 45,
+     "Zeichen": "Rh",
+     "Name": "Rhodium"
+   },
+   {
+     "Ordnungszahl": 46,
+     "Zeichen": "Pd",
+     "Name": "Palladium"
+   },
+   {
+     "Ordnungszahl": 47,
+     "Zeichen": "Ag",
+     "Name": "Silber"
+   },
+   {
+     "Ordnungszahl": 48,
+     "Zeichen": "Cd",
+     "Name": "Cadmium"
+   },
+   {
+     "Ordnungszahl": 49,
+     "Zeichen": "In",
+     "Name": "Indium"
+   },
+   {
+     "Ordnungszahl": 50,
+     "Zeichen": "Sn",
+     "Name": "Zinn"
+   },
+   {
+     "Ordnungszahl": 51,
+     "Zeichen": "Sb",
+     "Name": "Antimon"
+   },
+   {
+     "Ordnungszahl": 52,
+     "Zeichen": "Te",
+     "Name": "Tellur"
+   },
+   {
+     "Ordnungszahl": 53,
+     "Zeichen": "I",
+     "Name": "Iod"
+   },
+   {
+     "Ordnungszahl": 54,
+     "Zeichen": "Xe",
+     "Name": "Xenon"
+   },
+   {
+     "Ordnungszahl": 55,
+     "Zeichen": "Cs",
+     "Name": "Cäsium"
+   },
+   {
+     "Ordnungszahl": 56,
+     "Zeichen": "Ba",
+     "Name": "Barium"
+   },
+   {
+     "Ordnungszahl": 72,
+     "Zeichen": "Hf",
+     "Name": "Hafnium"
+   },
+   {
+     "Ordnungszahl": 73,
+     "Zeichen": "Ta",
+     "Name": "Tantal"
+   },
+   {
+     "Ordnungszahl": 74,
+     "Zeichen": "W",
+     "Name": "Wolfram"
+   },
+   {
+     "Ordnungszahl": 75,
+     "Zeichen": "Re",
+     "Name": "Rhenium"
+   },
+   {
+     "Ordnungszahl": 76,
+     "Zeichen": "Os",
+     "Name": "Osmium"
+   },
+   {
+     "Ordnungszahl": 77,
+     "Zeichen": "Ir",
+     "Name": "Iridium"
+   },
+   {
+     "Ordnungszahl": 78,
+     "Zeichen": "Pt",
+     "Name": "Platin"
+   },
+   {
+     "Ordnungszahl": 79,
+     "Zeichen": "Au",
+     "Name": "Gold"
+   },
+   {
+     "Ordnungszahl": 80,
+     "Zeichen": "Hg",
+     "Name": "Quecksilber"
+   },
+   {
+     "Ordnungszahl": 81,
+     "Zeichen": "Tl",
+     "Name": "Thallium"
+   },
+   {
+     "Ordnungszahl": 82,
+     "Zeichen": "Pb",
+     "Name": "Blei"
+   },
+   {
+     "Ordnungszahl": 83,
+     "Zeichen": "Bi",
+     "Name": "Wismut"
+   },
+   {
+     "Ordnungszahl": 84,
+     "Zeichen": "Po",
+     "Name": "Polonium"
+   },
+   {
+     "Ordnungszahl": 85,
+     "Zeichen": "At",
+     "Name": "Astat"
+   },
+   {
+     "Ordnungszahl": 86,
+     "Zeichen": "Rn",
+     "Name": "Radon"
+   },
+   {
+     "Ordnungszahl": 87,
+     "Zeichen": "Fr",
+     "Name": "Francium"
+   },
+   {
+     "Ordnungszahl": 88,
+     "Zeichen": "Ra",
+     "Name": "Radium"
+   },
+   {
+     "Ordnungszahl": 104,
+     "Zeichen": "Rf",
+     "Name": "Rutherfordium"
+   },
+   {
+     "Ordnungszahl": 105,
+     "Zeichen": "Db",
+     "Name": "Dubnium"
+   },
+   {
+     "Ordnungszahl": 106,
+     "Zeichen": "Sg",
+     "Name": "Seaborgium"
+   },
+   {
+     "Ordnungszahl": 107,
+     "Zeichen": "Bh",
+     "Name": "Bohrium"
+   },
+   {
+     "Ordnungszahl": 108,
+     "Zeichen": "Hs",
+     "Name": "Hassium"
+   },
+   {
+     "Ordnungszahl": 109,
+     "Zeichen": "Mt",
+     "Name": "Meitnerium"
+   },
+   {
+     "Ordnungszahl": 110,
+     "Zeichen": "Ds",
+     "Name": "Darmstadtium"
+   },
+   {
+     "Ordnungszahl": 111,
+     "Zeichen": "Rg",
+     "Name": "Roentgenium"
+   },
+   {
+     "Ordnungszahl": 112,
+     "Zeichen": "Cn",
+     "Name": "Copernicium"
+   },
+   {
+     "Ordnungszahl": 113,
+     "Zeichen": "Nh",
+     "Name": "Nihonium"
+   },
+   {
+     "Ordnungszahl": 114,
+     "Zeichen": "Fl",
+     "Name": "Flerovium"
+   },
+   {
+     "Ordnungszahl": 115,
+     "Zeichen": "Mc",
+     "Name": "Moscovium"
+   },
+   {
+     "Ordnungszahl": 116,
+     "Zeichen": "Lv",
+     "Name": "Livermorium"
+   },
+   {
+     "Ordnungszahl": 117,
+     "Zeichen": "Ts",
+     "Name": "Tenness"
+   },
+   {
+     "Ordnungszahl": 118,
+     "Zeichen": "Og",
+     "Name": "Oganesson"
+   },
+
+     {
+        "Ordnungszahl": 57,
+        "Zeichen": "La",
+        "Name": "Lanthan"
+      },
+      {
+        "Ordnungszahl": 58,
+        "Zeichen": "Ce",
+        "Name": "Cer"
+      },
+      {
+        "Ordnungszahl": 59,
+        "Zeichen": "Pr",
+        "Name": "Praseodym"
+      },
+      {
+        "Ordnungszahl": 60,
+        "Zeichen": "Nd",
+        "Name": "Neodym"
+      },
+      {
+        "Ordnungszahl": 61,
+        "Zeichen": "Pm",
+        "Name": "Promethium"
+      },
+      {
+        "Ordnungszahl": 62,
+        "Zeichen": "Sm",
+        "Name": "Samarium"
+      },
+      {
+        "Ordnungszahl": 63,
+        "Zeichen": "Eu",
+        "Name": "Europium"
+      },
+      {
+        "Ordnungszahl": 64,
+        "Zeichen": "Gd",
+        "Name": "Gadolinium"
+      },
+      {
+        "Ordnungszahl": 65,
+        "Zeichen": "Tb",
+        "Name": "Terbium"
+      },
+      {
+        "Ordnungszahl": 66,
+        "Zeichen": "Dy",
+        "Name": "Dysprosium"
+      },
+      {
+        "Ordnungszahl": 67,
+        "Zeichen": "Ho",
+        "Name": "Holmium"
+      },
+      {
+        "Ordnungszahl": 68,
+        "Zeichen": "Er",
+        "Name": "Erbium"
+      },
+      {
+        "Ordnungszahl": 69,
+        "Zeichen": "Tm",
+        "Name": "Thulium"
+      },
+      {
+        "Ordnungszahl": 70,
+        "Zeichen": "Yb",
+        "Name": "Ytterbium"
+      },
+      {
+        "Ordnungszahl": 71,
+        "Zeichen": "Lu",
+        "Name": "Lutetium"
+      },
+      {
+        "Ordnungszahl": 89,
+        "Zeichen": "Ac",
+        "Name": "Actinium"
+      },
+      {
+        "Ordnungszahl": 90,
+        "Zeichen": "Th",
+        "Name": "Thorium"
+      },
+      {
+        "Ordnungszahl": 91,
+        "Zeichen": "Pa",
+        "Name": "Protactinium"
+      },
+      {
+        "Ordnungszahl": 92,
+        "Zeichen": "U",
+        "Name": "Uran"
+      },
+      {
+        "Ordnungszahl": 93,
+        "Zeichen": "Np",
+        "Name": "Neptunium"
+      },
+      {
+        "Ordnungszahl": 94,
+        "Zeichen": "Pu",
+        "Name": "Plutonium"
+      },
+      {
+        "Ordnungszahl": 95,
+        "Zeichen": "Am",
+        "Name": "Americium"
+      },
+      {
+        "Ordnungszahl": 96,
+        "Zeichen": "Cm",
+        "Name": "Curium"
+      },
+      {
+        "Ordnungszahl": 97,
+        "Zeichen": "Bk",
+        "Name": "Berkelium"
+      },
+      {
+        "Ordnungszahl": 98,
+        "Zeichen": "Cf",
+        "Name": "Californium"
+      },
+      {
+        "Ordnungszahl": 99,
+        "Zeichen": "Es",
+        "Name": "Einsteinium"
+      },
+      {
+        "Ordnungszahl": 100,
+        "Zeichen": "Fm",
+        "Name": "Fermium"
+      },
+      {
+        "Ordnungszahl": 101,
+        "Zeichen": "Md",
+        "Name": "Mendelevium"
+      },
+      {
+        "Ordnungszahl": 102,
+        "Zeichen": "No",
+        "Name": "Nobelium"
+      },
+      {
+        "Ordnungszahl": 103,
+        "Zeichen": "Lr",
+        "Name": "Lawrencium"
+      }
+  ]
+}

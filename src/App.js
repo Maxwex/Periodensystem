@@ -1,22 +1,39 @@
 import logo from './logo.svg';
 import './App.css';
+import Table from "./components/Table.js";
+import Elemente from "./elementeJSON.json";
+import React, { useEffect, useState} from "react";
 
-function App() {
+function App(){
+  let table = [];
+
+
+  function createRow(num) {
+    let row =[];
+    for (var j = 0; j < 18; j++) {
+      if(num<2&&j<5){
+        row[j] = null;
+      }else {
+        row[j] = j+num*18;
+
+      }
+    }
+    return row;
+  }
+
+  function createTable() {
+    for (var i = 0; i < 10; i++) {
+      table[i] = createRow(i);
+    }
+  }
+
+  createTable();
+
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <h1>Periodensystem </h1>
+        <Table/>
       </header>
     </div>
   );

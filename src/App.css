@@ -14,7 +14,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #181818;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -24,6 +24,95 @@
   color: white;
 }
 
+.table{
+  display: grid;
+  grid-template-columns: repeat(18, auto);
+  width: 95%;
+  justify-content: center;
+
+}
+
+#cell{
+  background-color: #262626;
+  width: 5vw;
+  height: 5vw;
+
+
+
+}
+#name{
+  font-size: .8vw;
+  font-family: serif;
+  margin-bottom: .5vw
+}
+#symbol{
+  font-size: 2vw;
+  font-weight:  600;
+  text-align: center;
+  padding-top: .8vw;
+  color: #a0f5aa
+}
+h1{
+  margin-top:  -30vw;
+  margin-left: -20vw;
+  font-size: 3vw;
+  position: absolute;
+  color: #f5a0eb;
+}
+#number{
+  position: absolute;
+  text-align: left;
+  flex: left;
+  font-size: 1vw;
+  margin-left: .3vw;
+  margin-top: .2vw
+}
+#He{
+   grid-column-start: -2;
+}
+#B,
+#Al{
+   grid-column-start: 13;
+}
+#La{
+
+  grid-column-start: 3;
+}
+#La,#Ce,#Pr,
+#Nd,#Pm,#Sm,#Eu,#Gd,#Tb,#Dy,
+#Ho,
+#Er,
+#Tm,
+#Yb,
+#Lu{
+margin-top: 30px;
+}
+#Ac
+{
+  grid-column-start: 3
+}
+#Hf,#Rf
+{
+  grid-column-start: 4
+}
+
+.cell{
+  background-color: red;
+  width: 80px;
+  height: 80px;
+  margin: 5px;
+  float: left
+}
+.empty{
+
+  width: 80px;
+  height: 80px;
+  margin: 5px;
+  float: left
+}
+.Row{
+
+}
 .App-link {
   color: #61dafb;
 }
