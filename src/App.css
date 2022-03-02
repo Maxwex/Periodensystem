@@ -25,6 +25,7 @@
 }
 
 .table{
+  user-select: none;
   display: grid;
   grid-template-columns: repeat(18, auto);
   width: 95%;
@@ -95,23 +96,42 @@ margin-top: 30px;
 {
   grid-column-start: 4
 }
+.info{
+  position: absolute;
+  background-color: #333333;
+  margin-top:  -30vw;
+  margin-left: -20vw;
+  width:46vw;
+  height:10vw;
 
-.cell{
-  background-color: red;
-  width: 80px;
-  height: 80px;
-  margin: 5px;
-  float: left
 }
-.empty{
 
-  width: 80px;
-  height: 80px;
-  margin: 5px;
-  float: left
+.row{
+  color:#f5a0eb;
+  font-weight: bold;
+  font-style: sans-serif;
+  font-size: 1.5vw;
+  padding: 0 .5vw 0;
+  margin-bottom:.5vw;
+  border-color: #f5a0eb;
+  border-style:none none solid;
+
 }
-.Row{
+#entries{
 
+  margin: 1vw;
+  font-size: 1vw;
+  text-align: left;
+
+}
+.column{
+  font-family: serif;
+  margin-left: 1vw;
+  margin-right: 2vw;
+  float: left;
+}
+p{
+  margin:.6vw
 }
 .App-link {
   color: #61dafb;

@@ -1,39 +1,35 @@
 import logo from './logo.svg';
 import './App.css';
+import Infos from "./components/Infos.js"
 import Table from "./components/Table.js";
 import Elemente from "./elementeJSON.json";
 import React, { useEffect, useState} from "react";
 
 function App(){
-  let table = [];
+  const [number, setNumber] = useState();
+  const [visible, setVisible] = useState(false);
+  const [name, setName] = useState();
 
-
-  function createRow(num) {
-    let row =[];
-    for (var j = 0; j < 18; j++) {
-      if(num<2&&j<5){
-        row[j] = null;
-      }else {
-        row[j] = j+num*18;
-
-      }
+  function numberChanged(numberReceived, name){
+    if(number==numberReceived){
+      setVisible(!visible);
+    }else {
+      setVisible(true);
     }
-    return row;
+    setNumber([numberReceived]);
+    setName([name]);
+    console.log(visible);
   }
-
-  function createTable() {
-    for (var i = 0; i < 10; i++) {
-      table[i] = createRow(i);
-    }
-  }
-
-  createTable();
-
   return (
     <div className="App">
       <header className="App-header">
         <h1>Periodensystem </h1>
-        <Table/>
+        <Infos
+        number={number}
+        v={visible}
+        name={name}
+        />
+        <Table numberChanged={numberChanged}/>
       </header>
     </div>
   );
